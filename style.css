@@ -1,0 +1,99 @@
+.header{
+    margin: auto;
+    height: 130px;
+    width: 1300px;
+    background-color: rgb(35, 156, 255);
+    position: relative;
+    background-image: url("img/horus.jpg");
+    background-repeat: repeat-x;
+    background-size: 40%;
+
+
+}
+
+.font{
+    font-family: papyrus;
+}
+
+.posizionelogo{           
+    margin: auto;
+    width: 1100px;
+}
+
+#logoinbasso{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.posizionearticolo{
+    margin: auto;
+    width: 1100px;
+    background-image: url("img/paper.jpg");
+    background-repeat: repeat;
+}
+
+#titolotext{
+    font-size: 42px;
+    font-weight: 900;  
+}
+
+#sottotitolotext1{
+    font-size: 16px;
+    color:black;
+    font-size: bold;
+}
+#sottotitolotext2{
+    font-size: 16px;
+    color: brown;
+    font-size: bold;
+}
+#sottotitolotext3{
+    font-size: 12px;
+    color:black;
+    font-size: bold;
+}
+.testopiccolo{
+    font-size: 12px;
+    font-size: bold;
+}
+#testoarticolo{
+    font-size: 18px;   
+    font-weight: 700;
+}
+
+
+.tabellablu{
+    border-collapse:collapse;
+}
+
+.tableheader{
+    background-color:rgb(165, 42, 42, 0.7);
+    color:white;
+    font-size: bold;
+}
+
+.tableaqua{
+    background-color: rgb(175, 109, 109, 0.7);
+}
+
+.adtext{
+    font-size: 30px;
+    color: brown; 
+    font-weight: bolder;
+}
+
+.ad1{
+    position: relative;
+}
+
+.adlorem1{
+    font-size: 26px;
+    font-weight: bold;
+    color:lightgrey;
+    position: absolute;
+    top: -15px;
+    left: 15px;
+}
+
+
